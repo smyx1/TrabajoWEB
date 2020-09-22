@@ -341,10 +341,10 @@
     padding: 0 2rem;
 }
 
-.loginimg{
+.imglogin{
 	display: flex;
-	justify-content: flex-end;
-	align-items: center;
+	justify-content: center;
+	align-items: initial;
 }
 
 .login-content{
@@ -354,8 +354,8 @@
 	text-align: center;
 }
 
-.loginimg {
-	width: 500px;
+.imglogin {
+	width: 400px;
 }
 
 .form{
@@ -533,5 +533,7 @@
 
 	.login-content{
 		justify-content: center;
-	}
+  }
+  
+
 }
